@@ -99,11 +99,3 @@ Análisis Exploratorio YouTube Case "Análisis de datos"
 
 Este proyecto ofrece una visión profunda de cómo interactúan los usuarios con los videos de YouTube. Desde el lenguaje y los emojis usados en los comentarios, hasta la influencia del tipo de contenido y los títulos en el engagement, el análisis brinda una base sólida para comprender el comportamiento del usuario en plataformas sociales.
 
----
-
-## ⚙️ Cómo ejecutar este proyecto
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
